@@ -1,4 +1,4 @@
-# B41M 17PlayBox — PS4 Exploit Host
+# مركز المبدع — PS4 Exploit Host
 
 > A modern, terminal-styled web-based exploit host for the PlayStation 4 (FW 6.00–11.02).
 
@@ -8,7 +8,7 @@
 
 ## Overview
 
-**B41M 17PlayBox** is a self-hosted, browser-based jailbreak tool for the PlayStation 4. It leverages a WebKit/JavaScript exploit chain running entirely from the PS4's built-in web browser — no PC or external dongle required after the initial setup.
+**مركز المبدع** is a self-hosted, browser-based jailbreak tool for the PlayStation 4. It leverages a WebKit/JavaScript exploit chain running entirely from the PS4's built-in web browser — no PC or external dongle required after the initial setup.
 
 The interface was designed as a full **HACKING TERMINAL** experience with:
 
@@ -173,9 +173,9 @@ This regenerates `cache.manifest` with SHA-256 hashes for every file, so the PS4
 
 ## Credits & License
 
-**Project:** B41M 17PlayBox PS4 Exploit Host  
-**Owner:** Ibrahim Yusuf  
-**Location:** Jl. Tahir, Muara Jawa, Kukar, Kalimantan Timur, Indonesia.
+**Project:** مركز المبدع PS4 Exploit Host  
+**Owner:** مركز المبدع  
+**Location:** الاردن/اربد/شارع الجامعة/دخلة بنك الاتحاد
 
 This project is provided **as-is**, without warranty of any kind. Use it responsibly and only on hardware you own.
 
